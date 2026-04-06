@@ -1,5 +1,7 @@
 # docker headless wps arm 执行word转pdf
 
+本项目是在ARM64操作系统上，运行wps office程序在docker容器内，并启用RPC端口，能够实现python脚本调用wps进行word文件转pdf的操作。
+
 ## 免责声明
 
 项目仅供个人学习和技术研究使用，不得用于商业用途。项目中涉及的 WPS Office 软件版权归金山办公软件股份有限公司所有，请自行前往WPS官网购买正版授权并完成激活。因未经授权使用所产生的一切法律责任，由使用者自行承担，与本项目无关。
